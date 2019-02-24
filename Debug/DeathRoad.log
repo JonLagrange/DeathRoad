@@ -1,0 +1,106 @@
+﻿生成启动时间为 2018/10/23 14:39:36。
+     1>项目“D:\Projects\DeathRoad\DeathRoad.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 2013\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _VC80_UPGRADE=0x0600 /D _MBCS /Gm /EHsc /RTC1 /MTd /GS /Gy- /fp:precise /Zc:wchar_t /Zc:forScope /Yc"stdafx.h" /Fp".\Debug\DeathRoad.pch" /Fo".\Debug\\" /Fd".\Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt StdAfx.cpp
+         StdAfx.cpp
+         C:\Program Files (x86)\Microsoft Visual Studio 2013\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _VC80_UPGRADE=0x0600 /D _MBCS /Gm /EHsc /RTC1 /MTd /GS /Gy- /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp".\Debug\DeathRoad.pch" /Fo".\Debug\\" /Fd".\Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt DeathRoad.cpp
+         DeathRoad.cpp
+     1>d:\projects\deathroad\deathroad.cpp(101): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 2013\vc\include\stdio.h(211) : 参见“fopen”的声明
+     1>d:\projects\deathroad\deathroad.cpp(111): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 2013\vc\include\stdio.h(356) : 参见“sprintf”的声明
+     1>d:\projects\deathroad\deathroad.cpp(129): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 2013\vc\include\stdio.h(356) : 参见“sprintf”的声明
+     1>d:\projects\deathroad\deathroad.cpp(254): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 2013\vc\include\stdio.h(211) : 参见“fopen”的声明
+     1>d:\projects\deathroad\deathroad.cpp(267): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 2013\vc\include\string.h(118) : 参见“strcat”的声明
+     1>d:\projects\deathroad\deathroad.cpp(269): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 2013\vc\include\string.h(118) : 参见“strcat”的声明
+     1>d:\projects\deathroad\deathroad.cpp(280): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 2013\vc\include\stdio.h(211) : 参见“fopen”的声明
+     1>d:\projects\deathroad\deathroad.cpp(293): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 2013\vc\include\string.h(118) : 参见“strcat”的声明
+     1>d:\projects\deathroad\deathroad.cpp(295): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 2013\vc\include\string.h(118) : 参见“strcat”的声明
+     1>d:\projects\deathroad\deathroad.cpp(306): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 2013\vc\include\string.h(118) : 参见“strcat”的声明
+     1>d:\projects\deathroad\deathroad.cpp(307): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 2013\vc\include\string.h(118) : 参见“strcat”的声明
+     1>d:\projects\deathroad\deathroad.cpp(1008): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 2013\vc\include\stdio.h(356) : 参见“sprintf”的声明
+     1>d:\projects\deathroad\deathroad.cpp(1030): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 2013\vc\include\stdio.h(356) : 参见“sprintf”的声明
+     1>d:\projects\deathroad\deathroad.cpp(1052): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 2013\vc\include\stdio.h(356) : 参见“sprintf”的声明
+     1>d:\projects\deathroad\deathroad.cpp(1078): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _itoa. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 2013\vc\include\stdlib.h(937) : 参见“itoa”的声明
+     1>d:\projects\deathroad\deathroad.cpp(1080): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 2013\vc\include\string.h(118) : 参见“strcat”的声明
+     1>d:\projects\deathroad\deathroad.cpp(1082): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _itoa. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 2013\vc\include\stdlib.h(937) : 参见“itoa”的声明
+     1>d:\projects\deathroad\deathroad.cpp(1084): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 2013\vc\include\string.h(118) : 参见“strcat”的声明
+     1>d:\projects\deathroad\deathroad.cpp(1100): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _itoa. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 2013\vc\include\stdlib.h(937) : 参见“itoa”的声明
+     1>d:\projects\deathroad\deathroad.cpp(1102): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _itoa. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 2013\vc\include\stdlib.h(937) : 参见“itoa”的声明
+     1>d:\projects\deathroad\deathroad.cpp(1104): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 2013\vc\include\string.h(118) : 参见“strcat”的声明
+     1>d:\projects\deathroad\deathroad.cpp(1120): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _itoa. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 2013\vc\include\stdlib.h(937) : 参见“itoa”的声明
+     1>d:\projects\deathroad\deathroad.cpp(1122): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _itoa. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 2013\vc\include\stdlib.h(937) : 参见“itoa”的声明
+     1>d:\projects\deathroad\deathroad.cpp(1124): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 2013\vc\include\string.h(118) : 参见“strcat”的声明
+     1>d:\projects\deathroad\deathroad.cpp(1140): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _itoa. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 2013\vc\include\stdlib.h(937) : 参见“itoa”的声明
+     1>d:\projects\deathroad\deathroad.cpp(1142): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _itoa. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 2013\vc\include\stdlib.h(937) : 参见“itoa”的声明
+     1>d:\projects\deathroad\deathroad.cpp(1144): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 2013\vc\include\string.h(118) : 参见“strcat”的声明
+     1>d:\projects\deathroad\deathroad.cpp(1165): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 2013\vc\include\stdio.h(211) : 参见“fopen”的声明
+     1>d:\projects\deathroad\deathroad.cpp(1177): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 2013\vc\include\string.h(118) : 参见“strcat”的声明
+     1>d:\projects\deathroad\deathroad.cpp(1346): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 2013\vc\include\stdio.h(211) : 参见“fopen”的声明
+     1>d:\projects\deathroad\deathroad.cpp(1347): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _itoa. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 2013\vc\include\stdlib.h(937) : 参见“itoa”的声明
+     1>d:\projects\deathroad\deathroad.cpp(1348): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _itoa. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 2013\vc\include\stdlib.h(937) : 参见“itoa”的声明
+     1>d:\projects\deathroad\deathroad.cpp(1352): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 2013\vc\include\string.h(118) : 参见“strcat”的声明
+     1>d:\projects\deathroad\deathroad.cpp(1354): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 2013\vc\include\string.h(118) : 参见“strcat”的声明
+     1>d:\projects\deathroad\deathroad.cpp(1358): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 2013\vc\include\string.h(118) : 参见“strcat”的声明
+     1>d:\projects\deathroad\deathroad.cpp(1360): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 2013\vc\include\string.h(118) : 参见“strcat”的声明
+     1>d:\projects\deathroad\deathroad.cpp(1361): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 2013\vc\include\string.h(118) : 参见“strcat”的声明
+     1>d:\projects\deathroad\deathroad.cpp(1365): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 2013\vc\include\stdio.h(211) : 参见“fopen”的声明
+     1>d:\projects\deathroad\deathroad.cpp(1371): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 2013\vc\include\string.h(195) : 参见“strncpy”的声明
+     1>d:\projects\deathroad\deathroad.cpp(1389): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 2013\vc\include\string.h(112) : 参见“strcpy”的声明
+     1>d:\projects\deathroad\deathroad.cpp(1398): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 2013\vc\include\string.h(112) : 参见“strcpy”的声明
+     1>d:\projects\deathroad\deathroad.cpp(1404): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 2013\vc\include\stdio.h(211) : 参见“fopen”的声明
+     1>d:\projects\deathroad\deathroad.cpp(76): warning C4700: 使用了未初始化的局部变量“msg”
+       ResourceCompile:
+         C:\Program Files (x86)\Windows Kits\8.1\bin\x86\rc.exe /D _DEBUG /D _VC80_UPGRADE=0x0600 /l"0x0804" /nologo /fo".\Debug\DeathRoad.res" DeathRoad.rc 
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 2013\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:".\Debug\DeathRoad.exe" /INCREMENTAL /NOLOGO odbc32.lib odbccp32.lib winmm.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:".\Debug\DeathRoad.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:".\Debug\DeathRoad.lib" /MACHINE:X86 /SAFESEH .\Debug\DeathRoad.res
+         .\Debug\DeathRoad.obj
+         .\Debug\StdAfx.obj
+         LINK : 缺少程序数据库 D:\Projects\DeathRoad\Debug\DeathRoad.pdb；正在执行完全链接
+     1>DeathRoad.obj : warning LNK4075: 忽略“/EDITANDCONTINUE”(由于“/SAFESEH”规范)
+         DeathRoad.vcxproj -> D:\Projects\DeathRoad\.\Debug\DeathRoad.exe
+     1>已完成生成项目“D:\Projects\DeathRoad\DeathRoad.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:02.08
